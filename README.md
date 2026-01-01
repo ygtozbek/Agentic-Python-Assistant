@@ -11,7 +11,7 @@ While working on my Kubernetes projects, I wanted a fast way to generate boilerp
 - **Security:** Managed via Environment Variables (`python-dotenv`)
 
 ## ⚙️ How to Setup
-1. Clone the repo: `git clone <repo-url>`
+1. 1. Clone the repo: git clone 'https://github.com/ygtozbek/Agentic-Python-Assistant.git'
 2. Install requirements: `pip install -r requirements.txt`
 3. Create a `.env` file and add your `GROQ_API_KEY`.
 4. Run: `python3 main.py`
